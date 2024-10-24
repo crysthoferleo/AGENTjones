@@ -1,0 +1,71 @@
+h1{
+    font-size: 50px;
+    font-family: cursive;
+}
+h2{
+    font-family: cursive;
+    background:linear-gradient(rgb(114, 114, 255) 0%, cyan 100%)
+    
+}
+h3{
+    background-color: cadetblue;
+    font-family: cursive;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 1000px;
+    border-radius: 2cqmin;
+    border-style: double;
+}
+i{
+    font-size: 50px;
+}
+#inicio{
+    background: linear-gradient(blue 0%,purple 50%, red 100%)
+}
+#historia{
+    background: linear-gradient(#FFDEAD 0%, blue 100%);
+}
+#primeira{
+    background: linear-gradient(rgb(232, 245, 112) 0%, rgb(67, 67, 182) 100%);
+}
+#curiosidade{
+    background: linear-gradient(rgb(68, 68, 255) 0%,#c2c2ff 100%)
+}
+#site{
+    background-color: (#7B68EE)
+}
+#videos{
+    background-color: (#FFC0CB)
+}
+.videos{
+    background-color: rgb(99, 0, 0);
+}
+A{
+    background-color:#c2c2ff
+}
+B{
+    background-color:#c2c2ff
+}
+.myNavbar{
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+.logo{
+    border-radius: 100%;
+}
+.links{
+
+    font-size: 23px;
+    display: inline;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+.contatos_1 h2{
+    display: inline;
+    padding-bottom: 10px;
+}
+
